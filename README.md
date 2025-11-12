@@ -11,7 +11,17 @@ This project focuses on building a **modern data warehouse** using **SQL Server*
 - **Data Modeling:** Creation of well-structured **fact** and **dimension tables** optimized for analytical workloads.  
 - **Analytics & Reporting:** Design of **SQL-based dashboards and reports** to deliver actionable business insights.
 ---
+## 🧱 Architecture Overview
 
+The project follows the **Medallion Architecture** pattern:
+
+![Medallion Architecture Diagram](docs/Medallion_Architecture.png)
+
+- **Bronze Layer:** Raw data ingestion from source systems (ERP, CRM).  
+- **Silver Layer:** Cleaned, validated, and standardized datasets.  
+- **Gold Layer:** Curated, business-ready tables optimized for analytics and reporting.
+
+---
 ## ⚙️ Project Requirements
 
 ### 🧩 Building the Data Warehouse (Data Engineering)
@@ -42,18 +52,7 @@ These insights empower stakeholders to make **data-driven, strategic decisions**
 
 ---
 
-## 🧱 Architecture Overview
 
-The project follows the **Medallion Architecture** pattern:
-
-![Medallion Architecture Diagram](docs/Medallion%20Architecture.png)
-![Medallion Architecture Diagram](docs/Medallion_Architecture.png)
-
-- **Bronze Layer:** Raw data ingestion from source systems (ERP, CRM).  
-- **Silver Layer:** Cleaned, validated, and standardized datasets.  
-- **Gold Layer:** Curated, business-ready tables optimized for analytics and reporting.
-
----
 
 ## 📂 Repository Structure
 
