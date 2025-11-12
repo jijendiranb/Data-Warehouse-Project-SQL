@@ -19,7 +19,8 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 - **Naming Conventions**: Use snake_case, with lowercase letters and underscores (`_`) to separate words.
 - **Language**: Use English for all names.
-- **Avoid Reserved Words**: Do not use SQL reserved words as object names.
+- **Avoid Reserved Words**: Do not use SQL reserved words as object names. When creating tables, columns, or other database objects, do not use SQL reserved keywords (like User, Order, Group, Select, etc.) as object names.
+Reserved words are part of the SQL language syntax and can cause syntax errors or unexpected behavior when queried.
 
 ## **Table Naming Conventions**
 
