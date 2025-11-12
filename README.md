@@ -10,16 +10,6 @@ This project focuses on building a **modern data warehouse** using **SQL Server*
 - **ETL Pipelines:** Development of robust **Extract, Transform, and Load (ETL)** processes to ingest and prepare data from multiple source systems.  
 - **Data Modeling:** Creation of well-structured **fact** and **dimension tables** optimized for analytical workloads.  
 - **Analytics & Reporting:** Design of **SQL-based dashboards and reports** to deliver actionable business insights.
-
-🎯 **This repository is a valuable resource for professionals and students looking to build or demonstrate expertise in:**
-
-- SQL Development  
-- Data Architecture  
-- Data Engineering  
-- ETL Pipeline Design  
-- Data Modeling  
-- Data Analytics  
-
 ---
 
 ## ⚙️ Project Requirements
