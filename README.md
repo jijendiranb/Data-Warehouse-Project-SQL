@@ -47,7 +47,7 @@ These insights empower stakeholders to make **data-driven, strategic decisions**
 The project follows the **Medallion Architecture** pattern:
 
 ![Medallion Architecture Diagram](docs/Medallion%20Architecture.png)
-
+![Medallion Architecture Diagram](docs/Medallion_Architecture.png)
 
 - **Bronze Layer:** Raw data ingestion from source systems (ERP, CRM).  
 - **Silver Layer:** Cleaned, validated, and standardized datasets.  
