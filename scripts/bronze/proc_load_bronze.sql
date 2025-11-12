@@ -8,6 +8,12 @@ Script Purpose:
     - Truncates the bronze tables before loading data.
     - Uses the `BULK INSERT` command to load data from csv Files to bronze tables.
 
+Stored Procedures:
+	1: Save frequently used SQL code in stored procedures in the database
+	2: Add prints to track execution,debug issues and understand its flow
+	3: Add TRY…CATCH - Ensures error handling,data integrity and issue logging for easier debugging
+	4: Track ETL Duration -  Helps to identity bottlenecks, optimize performance, monitor trends, detect issues
+
 Parameters:
     None. 
 	  This stored procedure does not accept any parameters or return any values.
