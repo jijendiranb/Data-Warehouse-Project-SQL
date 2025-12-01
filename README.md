@@ -39,7 +39,7 @@ Develop a **modern data warehouse** in **SQL Server** to consolidate sales data 
 
 ---
 
-### 📊 BI: Analytics & Reporting (Data Analysis)
+### 📊 Analytics & Reporting (Data Analysis)
 
 **Objective:**  
 Build SQL-based analytics and dashboards to deliver insights into key business areas such as:
