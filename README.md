@@ -9,7 +9,7 @@ This project focuses on building a **modern data warehouse** using **SQL Server*
 - **Data Architecture:** Design and implementation of a scalable **modern data warehouse** following the **Medallion Architecture** (Bronze, Silver, Gold).  
 - **ETL Pipelines:** Development of robust **Extract, Transform, and Load (ETL)** processes to ingest and prepare data from multiple source systems.  
 - **Data Modeling:** Creation of well-structured **fact** and **dimension tables** optimized for analytical workloads.  
-- **Analytics & Reporting:** Design of **SQL-based dashboards and reports** to deliver actionable business insights.
+- **Analytics & Reporting:** Development of SQL-driven analytical reports, incorporating Exploratory Data Analysis (EDA) for pattern discovery, trend identification, and actionable business insights.
 ---
 ## 🧱 Architecture Overview
 
@@ -42,7 +42,7 @@ Develop a **modern data warehouse** in **SQL Server** to consolidate sales data 
 ### 📊 Analytics & Reporting (Data Analysis)
 
 **Objective:**  
-Build SQL-based analytics and dashboards to deliver insights into key business areas such as:
+Build SQL-based analytics and reporting frameworks supported by Exploratory Data Analysis (EDA) and Advanced Analytics techniques to derive insights into key business areas such as
 
 - **Customer Behavior**  
 - **Product Performance**  
