@@ -49,11 +49,6 @@ Build SQL-based analytics and reporting frameworks supported by Exploratory Data
 - **Sales Trends**
 
 These insights empower stakeholders to make **data-driven, strategic decisions** based on accurate and timely information.
-
----
-
-## 📂 Repository Structure
-
 ---
 ## 🛡️ License
 
